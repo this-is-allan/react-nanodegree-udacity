@@ -1,0 +1,4 @@
+.vscode/
+contacts/node_modules/
+contacts/yarn.lock
+reactnd-contacts-server/yarn.lock
